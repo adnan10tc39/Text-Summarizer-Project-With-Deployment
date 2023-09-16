@@ -21,7 +21,7 @@ list_of_files = [ #is k ander hum apny project ki files and folder define karien
         f"src/{project_name}/entity/__init__.py",
         f"src/{project_name}/constants/__init__.py",
         "config/config.yaml",
-        "params.yaml" #it contains model related parametes
+        "params.yaml", #it contains model related parametes
         "app.py",
         "main.py",
         "Dockerfile",
